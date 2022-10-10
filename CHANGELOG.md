@@ -1,6 +1,13 @@
 Versions
 ========
 
+2022-09-31
+----------
+* AWS : Adding kubectl & associated tools
+* Azure : Adding kubectl & associated tools
+* Azure : always install the latest CLI
+* Kubectl : removing this image, the tools are now included in AWS & Azure images
+
 2022-09-30
 ----------
 * Ansible : Build arm64 docker image
